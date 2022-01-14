@@ -1,0 +1,294 @@
+2025-11-13 16:49:52,438 Cargando Muestras.csv
+2025-11-13 16:54:46,404 - INFO - Backup created: Respaldo_20251113_165446.csv
+2025-11-13 16:54:46,404 - INFO - Loading existing data from Muestras.csv
+2025-11-13 16:54:46,408 - INFO - Starting scrape for client 101
+2025-11-13 16:54:46,703 - INFO - Chrome driver initialized successfully
+2025-11-13 16:54:46,726 - INFO - Logging into LIMS
+2025-11-13 16:54:51,026 - INFO - Login successful
+2025-11-13 16:54:51,056 - INFO - Already viewing client 101
+2025-11-13 16:54:51,788 - INFO - Found 2 samples on current page
+2025-11-13 16:54:51,805 - WARNING - No more pages available for client 101
+2025-11-13 16:54:51,805 - INFO - Completed scraping client 101. Total samples: 2
+2025-11-13 16:54:51,812 - INFO - Saving data to Muestras.csv
+2025-11-13 16:54:51,816 - INFO - Client 101 completed: 2 samples processed
+2025-11-13 16:54:51,888 - INFO - Browser closed
+2025-11-13 16:54:51,888 - INFO - Starting scrape for client 102
+2025-11-13 16:54:52,152 - INFO - Chrome driver initialized successfully
+2025-11-13 16:54:52,170 - INFO - Logging into LIMS
+2025-11-13 16:54:56,449 - INFO - Login successful
+2025-11-13 16:54:56,479 - INFO - Searching for client 102
+2025-11-13 16:55:00,712 - INFO - Successfully navigated to client 102
+2025-11-13 16:55:01,430 - INFO - Found 2 samples on current page
+2025-11-13 16:55:01,446 - WARNING - No more pages available for client 102
+2025-11-13 16:55:01,447 - INFO - Completed scraping client 102. Total samples: 2
+2025-11-13 16:55:01,450 - INFO - Saving data to Muestras.csv
+2025-11-13 16:55:01,452 - INFO - Client 102 completed: 2 samples processed
+2025-11-13 16:55:01,510 - INFO - Browser closed
+2025-11-13 16:55:01,510 - INFO - ETL pipeline completed. Final dataset: 4 total samples
+2025-11-14 11:34:00,077 - INFO - Backup created: Respaldo_20251114_113400.csv
+2025-11-14 11:34:00,078 - INFO - Loading existing data from Muestras.csv
+2025-11-14 11:34:00,084 - ERROR - Critical error in main execution: the dtype datetime64[ns] is not supported for parsing, pass this column using parse_dates instead
+2025-11-14 11:55:29,583 - INFO - Backup created: Respaldo_20251114_115529.csv
+2025-11-14 11:55:29,583 - INFO - Loading existing data from Muestras.csv
+2025-11-14 11:55:29,613 - INFO - Starting scrape for client 101
+2025-11-14 11:55:30,443 - INFO - Chrome driver initialized successfully
+2025-11-14 11:55:30,469 - INFO - Logging into LIMS
+2025-11-14 11:55:34,728 - INFO - Login successful
+2025-11-14 11:55:34,778 - INFO - Already viewing client 101
+2025-11-14 11:55:35,227 - INFO - Found 2 samples on current page
+2025-11-14 11:55:35,255 - WARNING - No more pages available for client 101
+2025-11-14 11:55:35,255 - INFO - Completed scraping client 101. Total samples: 2
+2025-11-14 11:55:35,265 - INFO - Saving data to Muestras.csv
+2025-11-14 11:55:35,269 - INFO - Client 101 completed: 2 samples processed
+2025-11-14 11:55:35,343 - INFO - Browser closed
+2025-11-14 11:55:35,343 - INFO - Starting scrape for client 102
+2025-11-14 11:55:35,604 - INFO - Chrome driver initialized successfully
+2025-11-14 11:55:35,618 - INFO - Logging into LIMS
+2025-11-14 11:55:39,857 - INFO - Login successful
+2025-11-14 11:55:39,885 - INFO - Searching for client 102
+2025-11-14 11:55:44,027 - INFO - Successfully navigated to client 102
+2025-11-14 11:55:44,469 - INFO - Found 2 samples on current page
+2025-11-14 11:55:44,480 - WARNING - No more pages available for client 102
+2025-11-14 11:55:44,480 - INFO - Completed scraping client 102. Total samples: 2
+2025-11-14 11:55:44,486 - INFO - Saving data to Muestras.csv
+2025-11-14 11:55:44,488 - INFO - Client 102 completed: 2 samples processed
+2025-11-14 11:55:44,549 - INFO - Browser closed
+2025-11-14 11:55:44,549 - INFO - ETL pipeline completed. Final dataset: 8 total samples
+2025-11-14 12:16:13,575 - INFO - Backup created: Respaldo_20251114_121613.csv
+2025-11-14 12:16:13,575 - INFO - Loading existing data from Muestras.csv
+2025-11-14 12:16:13,583 - INFO - Starting scrape for client 101
+2025-11-14 12:16:13,910 - INFO - Chrome driver initialized successfully
+2025-11-14 12:16:13,925 - INFO - Logging into LIMS
+2025-11-14 12:16:18,247 - INFO - Login successful
+2025-11-14 12:16:18,270 - INFO - Already viewing client 101
+2025-11-14 12:16:18,876 - INFO - Found 2 samples on current page
+2025-11-14 12:16:18,889 - WARNING - No more pages available for client 101
+2025-11-14 12:16:18,890 - INFO - Completed scraping client 101. Total samples: 2
+2025-11-14 12:16:18,896 - INFO - Saving data to Muestras.csv
+2025-11-14 12:16:18,897 - INFO - Client 101 completed: 2 samples processed
+2025-11-14 12:16:18,972 - INFO - Browser closed
+2025-11-14 12:16:18,972 - INFO - Starting scrape for client 102
+2025-11-14 12:16:19,240 - INFO - Chrome driver initialized successfully
+2025-11-14 12:16:19,261 - INFO - Logging into LIMS
+2025-11-14 12:16:23,543 - INFO - Login successful
+2025-11-14 12:16:23,574 - INFO - Searching for client 102
+2025-11-14 12:16:27,786 - INFO - Successfully navigated to client 102
+2025-11-14 12:16:28,387 - INFO - Found 2 samples on current page
+2025-11-14 12:16:28,399 - WARNING - No more pages available for client 102
+2025-11-14 12:16:28,399 - INFO - Completed scraping client 102. Total samples: 2
+2025-11-14 12:16:28,403 - INFO - Saving data to Muestras.csv
+2025-11-14 12:16:28,404 - INFO - Client 102 completed: 2 samples processed
+2025-11-14 12:16:28,461 - INFO - Browser closed
+2025-11-14 12:16:28,461 - INFO - ETL pipeline completed. Final dataset: 12 total samples
+2025-11-14 12:32:45,554 - INFO - Backup created: Respaldo_20251114_123245.csv
+2025-11-14 12:32:45,554 - INFO - Loading existing data from Muestras.csv
+2025-11-14 12:32:45,561 - INFO - Starting scrape for client 101
+2025-11-14 12:32:45,937 - INFO - Chrome driver initialized successfully
+2025-11-14 12:32:45,964 - INFO - Logging into LIMS
+2025-11-14 12:32:53,926 - INFO - Login successful
+2025-11-14 12:32:53,956 - INFO - Already viewing client 101
+2025-11-14 12:32:54,518 - INFO - Found 2 samples on current page
+2025-11-14 12:32:54,532 - WARNING - No more pages available for client 101
+2025-11-14 12:32:54,532 - INFO - Completed scraping client 101. Total samples: 2
+2025-11-14 12:32:54,539 - INFO - Saving data to Muestras.csv
+2025-11-14 12:32:54,542 - INFO - Client 101 completed: 2 samples processed
+2025-11-14 12:32:54,617 - INFO - Browser closed
+2025-11-14 12:32:54,617 - INFO - Starting scrape for client 102
+2025-11-14 12:32:54,942 - INFO - Chrome driver initialized successfully
+2025-11-14 12:32:54,959 - INFO - Logging into LIMS
+2025-11-14 12:32:59,222 - INFO - Login successful
+2025-11-14 12:32:59,259 - INFO - Searching for client 102
+2025-11-14 12:33:03,487 - INFO - Successfully navigated to client 102
+2025-11-14 12:33:04,060 - INFO - Found 2 samples on current page
+2025-11-14 12:33:04,072 - WARNING - No more pages available for client 102
+2025-11-14 12:33:04,073 - INFO - Completed scraping client 102. Total samples: 2
+2025-11-14 12:33:04,078 - INFO - Saving data to Muestras.csv
+2025-11-14 12:33:04,080 - INFO - Client 102 completed: 2 samples processed
+2025-11-14 12:33:04,138 - INFO - Browser closed
+2025-11-14 12:33:04,138 - INFO - ETL pipeline completed. Final dataset: 16 total samples
+2025-11-14 15:25:11,130 - INFO - Backup created: Respaldo_20251114_152511.csv
+2025-11-14 15:25:11,131 - INFO - Loading existing data from Muestras.csv
+2025-11-14 15:25:11,159 - INFO - Starting scrape for client 101
+2025-11-14 15:25:11,757 - INFO - Chrome driver initialized successfully
+2025-11-14 15:25:11,780 - INFO - Logging into LIMS
+2025-11-14 15:25:19,056 - INFO - Login successful
+2025-11-14 15:25:19,096 - INFO - Already viewing client 101
+2025-11-14 15:25:19,613 - INFO - Found 2 samples on current page
+2025-11-14 15:25:19,625 - WARNING - No more pages available for client 101
+2025-11-14 15:25:19,626 - INFO - Completed scraping client 101. Total samples: 2
+2025-11-14 15:25:19,631 - INFO - Saving data to Muestras.csv
+2025-11-14 15:25:19,634 - INFO - Client 101 completed: 2 samples processed
+2025-11-14 15:25:19,705 - INFO - Browser closed
+2025-11-14 15:25:19,705 - INFO - Starting scrape for client 102
+2025-11-14 15:25:19,996 - INFO - Chrome driver initialized successfully
+2025-11-14 15:25:20,019 - INFO - Logging into LIMS
+2025-11-14 15:25:24,330 - INFO - Login successful
+2025-11-14 15:25:24,356 - INFO - Searching for client 102
+2025-11-14 15:25:28,511 - INFO - Successfully navigated to client 102
+2025-11-14 15:25:28,948 - INFO - Found 2 samples on current page
+2025-11-14 15:25:28,959 - WARNING - No more pages available for client 102
+2025-11-14 15:25:28,959 - INFO - Completed scraping client 102. Total samples: 2
+2025-11-14 15:25:28,964 - INFO - Saving data to Muestras.csv
+2025-11-14 15:25:28,965 - INFO - Client 102 completed: 2 samples processed
+2025-11-14 15:25:29,023 - INFO - Browser closed
+2025-11-14 15:25:29,023 - INFO - ETL pipeline completed. Final dataset: 20 total samples
+2025-11-14 15:25:36,603 - INFO - Backup created: Respaldo_20251114_152536.csv
+2025-11-14 15:25:36,603 - INFO - Loading existing data from Muestras.csv
+2025-11-14 15:25:36,611 - INFO - Starting scrape for client 101
+2025-11-14 15:25:36,923 - INFO - Chrome driver initialized successfully
+2025-11-14 15:25:36,940 - INFO - Logging into LIMS
+2025-11-14 15:25:41,221 - INFO - Login successful
+2025-11-14 15:25:41,244 - INFO - Already viewing client 101
+2025-11-14 15:25:41,902 - INFO - Found 2 samples on current page
+2025-11-14 15:25:41,916 - WARNING - No more pages available for client 101
+2025-11-14 15:25:41,916 - INFO - Completed scraping client 101. Total samples: 2
+2025-11-14 15:25:41,920 - INFO - Saving data to Muestras.csv
+2025-11-14 15:25:41,921 - INFO - Client 101 completed: 2 samples processed
+2025-11-14 15:25:41,994 - INFO - Browser closed
+2025-11-14 15:25:41,994 - INFO - Starting scrape for client 102
+2025-11-14 15:25:42,274 - INFO - Chrome driver initialized successfully
+2025-11-14 15:25:42,298 - INFO - Logging into LIMS
+2025-11-14 15:25:46,528 - INFO - Login successful
+2025-11-14 15:25:46,562 - INFO - Searching for client 102
+2025-11-14 15:25:53,690 - INFO - Successfully navigated to client 102
+2025-11-14 15:25:54,244 - INFO - Found 2 samples on current page
+2025-11-14 15:25:54,260 - WARNING - No more pages available for client 102
+2025-11-14 15:25:54,260 - INFO - Completed scraping client 102. Total samples: 2
+2025-11-14 15:25:54,266 - INFO - Saving data to Muestras.csv
+2025-11-14 15:25:54,267 - INFO - Client 102 completed: 2 samples processed
+2025-11-14 15:25:54,327 - INFO - Browser closed
+2025-11-14 15:25:54,327 - INFO - ETL pipeline completed. Final dataset: 24 total samples
+2025-11-14 15:26:48,317 - INFO - Backup created: Respaldo_20251114_152648.csv
+2025-11-14 15:26:48,317 - INFO - Loading existing data from Muestras.csv
+2025-11-14 15:26:48,324 - INFO - Starting scrape for client 101
+2025-11-14 15:26:48,626 - INFO - Chrome driver initialized successfully
+2025-11-14 15:26:48,646 - INFO - Logging into LIMS
+2025-11-14 15:26:52,876 - INFO - Login successful
+2025-11-14 15:26:52,910 - INFO - Already viewing client 101
+2025-11-14 15:26:53,258 - INFO - Found 1 samples on current page
+2025-11-14 15:26:53,268 - WARNING - No more pages available for client 101
+2025-11-14 15:26:53,268 - INFO - Completed scraping client 101. Total samples: 1
+2025-11-14 15:26:53,274 - INFO - Saving data to Muestras.csv
+2025-11-14 15:26:53,276 - INFO - Client 101 completed: 1 samples processed
+2025-11-14 15:26:53,352 - INFO - Browser closed
+2025-11-14 15:26:53,353 - INFO - Starting scrape for client 102
+2025-11-14 15:26:53,587 - INFO - Chrome driver initialized successfully
+2025-11-14 15:26:53,602 - INFO - Logging into LIMS
+2025-11-14 15:26:57,816 - INFO - Login successful
+2025-11-14 15:26:57,845 - INFO - Searching for client 102
+2025-11-14 15:27:04,983 - INFO - Successfully navigated to client 102
+2025-11-14 15:27:05,387 - INFO - Found 1 samples on current page
+2025-11-14 15:27:05,404 - WARNING - No more pages available for client 102
+2025-11-14 15:27:05,404 - INFO - Completed scraping client 102. Total samples: 1
+2025-11-14 15:27:05,410 - INFO - Saving data to Muestras.csv
+2025-11-14 15:27:05,411 - INFO - Client 102 completed: 1 samples processed
+2025-11-14 15:27:05,470 - INFO - Browser closed
+2025-11-14 15:27:05,470 - INFO - ETL pipeline completed. Final dataset: 26 total samples
+2025-11-14 15:36:09,595 - INFO - Backup created: Respaldo_20251114_153609.csv
+2025-11-14 15:36:09,596 - INFO - Loading existing data from Muestras.csv
+2025-11-14 15:36:09,604 - INFO - Starting scrape for client 101
+2025-11-14 15:36:09,995 - INFO - Chrome driver initialized successfully
+2025-11-14 15:36:10,016 - INFO - Logging into LIMS
+2025-11-14 15:36:14,304 - INFO - Login successful
+2025-11-14 15:36:14,335 - INFO - Already viewing client 101
+2025-11-14 15:36:14,973 - INFO - Found 2 samples on current page
+2025-11-14 15:36:14,987 - WARNING - No more pages available for client 101
+2025-11-14 15:36:14,988 - INFO - Completed scraping client 101. Total samples: 2
+2025-11-14 15:36:14,996 - INFO - Saving data to Muestras.csv
+2025-11-14 15:36:14,998 - INFO - Client 101 completed: 2 samples processed
+2025-11-14 15:36:15,070 - INFO - Browser closed
+2025-11-14 15:36:15,071 - INFO - Starting scrape for client 102
+2025-11-14 15:36:15,344 - INFO - Chrome driver initialized successfully
+2025-11-14 15:36:15,368 - INFO - Logging into LIMS
+2025-11-14 15:36:19,592 - INFO - Login successful
+2025-11-14 15:36:19,622 - INFO - Searching for client 102
+2025-11-14 15:36:26,753 - INFO - Successfully navigated to client 102
+2025-11-14 15:36:27,268 - INFO - Found 2 samples on current page
+2025-11-14 15:36:27,281 - WARNING - No more pages available for client 102
+2025-11-14 15:36:27,281 - INFO - Completed scraping client 102. Total samples: 2
+2025-11-14 15:36:27,284 - INFO - Saving data to Muestras.csv
+2025-11-14 15:36:27,285 - INFO - Client 102 completed: 2 samples processed
+2025-11-14 15:36:27,343 - INFO - Browser closed
+2025-11-14 15:36:27,343 - INFO - ETL pipeline completed. Final dataset: 30 total samples
+2025-11-14 15:55:17,636 - INFO - Chrome driver initialized successfully
+2025-11-14 15:55:17,655 - INFO - Logging into LIMS
+2025-11-14 15:55:21,949 - INFO - Login successful
+2025-11-14 15:55:21,976 - INFO - Already viewing client 101
+2025-11-14 15:55:22,133 - INFO - Found 0 samples on current page
+2025-11-14 15:55:22,202 - INFO - Browser closed
+2025-11-14 15:56:17,487 - INFO - Chrome driver initialized successfully
+2025-11-14 15:56:17,508 - INFO - Logging into LIMS
+2025-11-14 15:56:21,737 - INFO - Login successful
+2025-11-14 15:56:21,767 - INFO - Already viewing client 101
+2025-11-14 15:56:22,213 - INFO - Found 2 samples on current page
+2025-11-14 15:56:22,299 - INFO - Browser closed
+2025-11-14 15:58:55,786 - ERROR - Critical error in main execution: (psycopg2.OperationalError) connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "test"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "test"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-14 16:01:51,006 - INFO - Chrome driver initialized successfully
+2025-11-14 16:01:51,024 - INFO - Logging into LIMS
+2025-11-14 16:01:55,313 - INFO - Login successful
+2025-11-14 16:01:55,334 - INFO - Already viewing client 101
+2025-11-14 16:01:55,864 - INFO - Found 2 samples on current page
+2025-11-14 16:01:55,938 - INFO - Browser closed
+2025-11-14 16:02:35,538 - INFO - Chrome driver initialized successfully
+2025-11-14 16:02:35,554 - INFO - Logging into LIMS
+2025-11-14 16:02:39,755 - INFO - Login successful
+2025-11-14 16:02:39,786 - INFO - Already viewing client 101
+2025-11-14 16:02:40,224 - INFO - Found 2 samples on current page
+2025-11-14 16:02:40,306 - INFO - Browser closed
+2025-11-14 16:03:48,588 - INFO - Chrome driver initialized successfully
+2025-11-14 16:03:48,605 - INFO - Logging into LIMS
+2025-11-14 16:03:52,890 - INFO - Login successful
+2025-11-14 16:03:52,912 - INFO - Already viewing client 101
+2025-11-14 16:03:53,491 - INFO - Found 2 samples on current page
+2025-11-14 16:03:53,590 - INFO - Browser closed
+2025-11-14 16:52:47,263 - ERROR - Critical error in main execution: (psycopg2.OperationalError) connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-14 17:23:45,644 - INFO - Starting scrape for client 101
+2025-11-14 17:23:48,611 - INFO - Chrome driver initialized successfully
+2025-11-14 17:23:48,635 - INFO - Logging into LIMS
+2025-11-14 17:23:52,953 - INFO - Login successful
+2025-11-14 17:23:52,983 - INFO - Already viewing client 101
+2025-11-14 17:23:53,435 - INFO - Found 2 samples on current page
+2025-11-14 17:23:53,461 - WARNING - No more pages available for client 101
+2025-11-14 17:23:53,461 - INFO - Completed scraping client 101. Total samples: 2
+2025-11-14 17:23:53,474 - INFO - Client 101 completed: 2 samples saved to database
+2025-11-14 17:23:53,550 - INFO - Browser closed
+2025-11-14 17:23:53,551 - INFO - Starting scrape for client 102
+2025-11-14 17:23:53,800 - INFO - Chrome driver initialized successfully
+2025-11-14 17:23:53,816 - INFO - Logging into LIMS
+2025-11-14 17:23:58,112 - INFO - Login successful
+2025-11-14 17:23:58,139 - INFO - Searching for client 102
+2025-11-14 17:24:02,279 - INFO - Successfully navigated to client 102
+2025-11-14 17:24:02,725 - INFO - Found 2 samples on current page
+2025-11-14 17:24:02,736 - WARNING - No more pages available for client 102
+2025-11-14 17:24:02,736 - INFO - Completed scraping client 102. Total samples: 2
+2025-11-14 17:24:02,757 - INFO - Client 102 completed: 2 samples saved to database
+2025-11-14 17:24:02,816 - INFO - Browser closed
+2025-11-14 17:24:02,826 - INFO - ETL pipeline completed. Total samples in database: 2
+2025-11-14 17:28:30,030 - INFO - Starting scrape for client 101
+2025-11-14 17:28:30,339 - INFO - Chrome driver initialized successfully
+2025-11-14 17:28:30,358 - INFO - Logging into LIMS
+2025-11-14 17:28:34,608 - INFO - Login successful
+2025-11-14 17:28:34,644 - INFO - Already viewing client 101
+2025-11-14 17:28:34,784 - INFO - Found 0 samples on current page
+2025-11-14 17:28:34,798 - WARNING - No more pages available for client 101
+2025-11-14 17:28:34,799 - INFO - Completed scraping client 101. Total samples: 0
+2025-11-14 17:28:34,799 - WARNING - No data found for client 101
+2025-11-14 17:28:34,873 - INFO - Browser closed
+2025-11-14 17:28:34,873 - INFO - Starting scrape for client 102
+2025-11-14 17:28:35,126 - INFO - Chrome driver initialized successfully
+2025-11-14 17:28:35,145 - INFO - Logging into LIMS
+2025-11-14 17:28:39,411 - INFO - Login successful
+2025-11-14 17:28:39,441 - INFO - Searching for client 102
+2025-11-14 17:28:43,668 - INFO - Successfully navigated to client 102
+2025-11-14 17:28:43,780 - INFO - Found 0 samples on current page
+2025-11-14 17:28:43,792 - WARNING - No more pages available for client 102
+2025-11-14 17:28:43,793 - INFO - Completed scraping client 102. Total samples: 0
+2025-11-14 17:28:43,793 - WARNING - No data found for client 102
+2025-11-14 17:28:43,852 - INFO - Browser closed
+2025-11-14 17:28:43,863 - INFO - ETL pipeline completed. Total samples in database: 2
